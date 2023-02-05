@@ -11,4 +11,4 @@
 ![zhongfulin123's github stats](https://github-readme-stats.vercel.app/api?username=zhongfulin123&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhongfulin123&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhongfulin123&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhongfulin123&layout=compact&langs_count=6)
