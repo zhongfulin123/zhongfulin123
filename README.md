@@ -5,14 +5,6 @@
 热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
 
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
-
-
-
-
-### 开源项目
-
-
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=zhongfulin123&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
